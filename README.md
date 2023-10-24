@@ -1,7 +1,24 @@
-# Getting Started with Create React App
+
+# Game web app using React
+
+<br> **Game system "100 to Get":**
+• Management system and execution of actions in "100 to Get" games by players operating in a circular round.<br> 
+• When the application is activated, a serial process of registering all the players who wish to play in the system will be carried out.<br> 
+• At the end of the stage of registering all the players to the system - move to the stage of performing actions in the games.<br> 
+• During the games - all the boards of the players registered to the system appear simultaneously on the application screen.<br> 
+• At any moment - only one player's board is active (according to a round robin), the rest of the players' boards are disabled.<br> 
+• An active player can only take one step in his game, then the turn goes to the next player after him.<br> 
+•"100 to Get" game for each player starts with a random number between 0 and .99 <br> 
+• The goal in every "100 to Get" game is to reach the number 100 in a small number of actions. <br> 
+• The actions in the game - +1 (add one), -1 (subtract one), *2 (multiply by two), /2 (divide by two). <br> 
+• At the end of each game (reaching 100) - the result (number of actions) of the player is recorded. <br> 
+• At the end of each game (reaching 100) - the player can start a new game or leave the system. <br> 
+• When a player leaves the system (at the end of his particular game) - his game board is deleted from the system. <br> 
+• For each player in the system, a record of the results of all the games he has played so far is saved and displayed personally. <br> 
+• The system also includes a central board that displays the top three players according to their game data. <br> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Getting Started with Create React App
 ## Available Scripts
 
 In the project directory, you can run:
