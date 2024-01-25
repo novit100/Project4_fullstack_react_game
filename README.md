@@ -1,7 +1,7 @@
 
 # Game web app using React
 
-<br> **Game system "100 to Get":** <br> 
+<br> **Game system "Get to 100":** <br> 
 • Management system and execution of actions in "100 to Get" games by players operating in a circular round.<br> 
 • When the application is activated, a serial process of registering all the players who wish to play in the system will be carried out.<br> 
 • At the end of the stage of registering all the players to the system - move to the stage of performing actions in the games.<br> 
