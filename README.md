@@ -2,13 +2,13 @@
 # Game web app using React
 
 <br> **Game system "Get to 100":** <br> 
-• Management system and execution of actions in "100 to Get" games by players operating in a circular round.<br> 
+• Management system and execution of actions in "Get to 100" games by players operating in a circular round.<br> 
 • When the application is activated, a serial process of registering all the players who wish to play in the system will be carried out.<br> 
 • At the end of the stage of registering all the players to the system - move to the stage of performing actions in the games.<br> 
 • During the games - all the boards of the players registered to the system appear simultaneously on the application screen.<br> 
 • At any moment - only one player's board is active (according to a round robin), the rest of the players' boards are disabled.<br> 
 • An active player can only take one step in his game, then the turn goes to the next player after him.<br> 
-•"100 to Get" game for each player starts with a random number between 0 and .99 <br> 
+•"Get to 100" game for each player starts with a random number between 0 and .99 <br> 
 • The goal in every "100 to Get" game is to reach the number 100 in a small number of actions. <br> 
 • The actions in the game - +1 (add one), -1 (subtract one), *2 (multiply by two), /2 (divide by two). <br> 
 • At the end of each game (reaching 100) - the result (number of actions) of the player is recorded. <br> 
